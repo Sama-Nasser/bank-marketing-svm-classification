@@ -104,6 +104,4 @@ The model successfully identifies approximately **88% of potential subscribers**
 
 ---
 
-## Project Structure
-
  
