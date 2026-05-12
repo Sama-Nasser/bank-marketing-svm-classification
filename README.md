@@ -89,6 +89,12 @@ Evaluation metrics include:
 The model successfully identifies approximately **88% of potential subscribers**, making it useful for marketing prioritization and customer targeting.
 
 ---
+## Deployment
+
+The application is deployed on Streamlit Cloud and can be accessed here:
+
+🔗 [Live Demo](https://bank-marketing-campaign-predict.streamlit.app/)
+---
 
 ## Tech Stack
 
